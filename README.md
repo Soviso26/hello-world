@@ -1,2 +1,4 @@
 # hello-world
-starting to learn github as I want to learn automated testing with cucumber
+This is a good time to begin
+starting to try out github as I want to learn automated testing with cucumber
+so that we can write kiving documentation
